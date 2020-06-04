@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "97954710923",
+    "firebase_url": "https://lojavirtualcurso-34d10.firebaseio.com",
+    "project_id": "lojavirtualcurso-34d10",
+    "storage_bucket": "lojavirtualcurso-34d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97954710923:android:63afa875b53a1981765b8e",
+        "android_client_info": {
+          "package_name": "com.lohmann.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97954710923-gp484rt17c69l77vmvi8mfrq5q4pd9fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3X-6J0gACyXIichH7Ca5UvJOJx3mEmKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97954710923-gp484rt17c69l77vmvi8mfrq5q4pd9fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
